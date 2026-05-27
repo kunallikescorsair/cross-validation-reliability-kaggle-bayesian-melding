@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Raw Kaggle data
+data/santander/
+data/porto/
+data/homesite/
+data/raw/
+data/interim/
+data/processed/
+
+# Large model files
+*.pkl
+*.joblib
+*.model
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Archives
+*.zip
+*.tar.gz
+*.7z
+
+# Temporary files
+*.tmp
+*.log
+
+# Submission prediction files
+submissions/**/*.csv
+
+# Keep final research result CSVs in results/

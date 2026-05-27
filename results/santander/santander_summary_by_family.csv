@@ -1,0 +1,2 @@
+model_family,n_models,mean_cv_auc,mean_public_auc,mean_private_auc,mean_cv_private_gap,mean_abs_cv_private_gap,mean_public_private_gap,mean_abs_public_private_gap,mean_cv_std
+lightgbm,1,0.8420292625260336,0.84053,0.83816,0.00386926252603359,0.00386926252603359,0.0023699999999999832,0.0023699999999999832,0.0035755697373782
