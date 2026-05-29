@@ -104,7 +104,7 @@ Some Kaggle leaderboard scores were manually verified because automated submissi
 
 ## Environment
 
-The project was developed using Python 3.11+.
+The project was developed using Python 3.11.4.
 
 Install dependencies with:
 
