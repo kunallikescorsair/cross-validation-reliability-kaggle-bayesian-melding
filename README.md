@@ -1,4 +1,3 @@
-````markdown
 # Evaluating Cross-Validation Reliability in Kaggle Tabular Binary Classification Competitions Using Bayesian Melding
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20444020.svg)](https://doi.org/10.5281/zenodo.20444020)
@@ -192,6 +191,3 @@ The archived release is available through Zenodo under DOI:
 Kunal Gurung
 Master of Data Science and Innovation
 University of Technology Sydney
-
-```
-```
